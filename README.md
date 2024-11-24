@@ -1,2 +1,2 @@
 # HuaEdward-USACO-Silver-Classic-Question-Answers-in-cpp
-Reference answers for some classic USACO questions.
+An answer key for classic Bronze USACO questions. You can also find the answer key for Silver questions in my other repo. The answer keys for higher levels are in progress 😊.
